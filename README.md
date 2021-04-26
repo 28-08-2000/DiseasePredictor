@@ -37,4 +37,5 @@ Now finally, depending on the model you selected, it would predict the disease y
 
 
 <b>Output Demo</b>
-![image](https://user-images.githubusercontent.com/47386692/116033950-fc5ddf80-a67f-11eb-8d28-6e6e9b2f6c06.png)
+<img src="https://user-images.githubusercontent.com/47386692/116033950-fc5ddf80-a67f-11eb-8d28-6e6e9b2f6c06.png" alt="Output"></img>
+<br>
