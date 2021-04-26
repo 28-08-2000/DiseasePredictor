@@ -1,4 +1,6 @@
-# DiseasePredictor
+# Disease Predictor
+
+*Please check the path of dataset and model, and modify it accordingly on your remote system*
 
 <h1>Machine Learning Project on Disease Predictions using Symptoms</h1>
 <br>
