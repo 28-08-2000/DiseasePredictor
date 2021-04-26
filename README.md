@@ -5,7 +5,7 @@
 <h3>Description About Disease predictor Project</h3>
 
 1) data :- This folders contains the dataset on which the model is trained on, you can either download the data from this directory or clone from the kaggle <a href="https://www.kaggle.com/itachi9604/disease-symptom-description-dataset"> thread </a>.
-<br>
+
 2) save_model :- This is the folder where the models are stored to train the dataset and saved.
 <br>
 
@@ -36,3 +36,5 @@ Now from select your symptoms, user can select any symptoms from the dropdown me
 Now finally, depending on the model you selected, it would predict the disease you might have.
 
 
+<b>Output Demo</b>
+![image](https://user-images.githubusercontent.com/47386692/116033950-fc5ddf80-a67f-11eb-8d28-6e6e9b2f6c06.png)
